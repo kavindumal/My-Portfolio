@@ -184,3 +184,14 @@ body {
     background-color: #0EB4FF;
     color: #040837;
 }
+
+.profilePic {
+    margin-top: -400px;
+    margin-left: 510px;
+    width: 781;
+    height: 819;
+}
+
+.whatiDoTxt {
+    margin-top: -250px;
+}
