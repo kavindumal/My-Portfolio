@@ -231,9 +231,16 @@ body {
     background-color: #032D5F;
     border: transparent;
     border-radius: 30px;
+    transition-duration: 400ms;
+}
+
+.box1:hover {
+    width: 500px;
+    height: 300px;
 }
 
 .box2 {
+    transition-duration: 400ms;
     margin-top: -223px;
     margin-left: 840px;
     width: 404px;
@@ -243,7 +250,14 @@ body {
     border-radius: 30px;
 }
 
+.box2:hover {
+    margin-left: 800px;
+    width: 500px;
+    height: 300px;
+}
+
 .box3 {
+    transition-duration: 400ms;
     margin-top: -223px;
     margin-left: 1500px;
     width: 404px;
@@ -253,7 +267,13 @@ body {
     border-radius: 30px;
 }
 
+.box3:hover {
+    width: 500px;
+    height: 300px;
+}
+
 .box4 {
+    transition-duration: 400ms;
     margin-top: 170px;
     margin-left: 180px;
     width: 404px;
@@ -263,7 +283,13 @@ body {
     border-radius: 30px;
 }
 
+.box4:hover {
+    width: 500px;
+    height: 300px;
+}
+
 .box5 {
+    transition-duration: 400ms;
     margin-top: -223px;
     margin-left: 840px;
     width: 404px;
@@ -273,7 +299,14 @@ body {
     border-radius: 30px;
 }
 
+.box5:hover {
+    margin-left: 800px;
+    width: 500px;
+    height: 300px;
+}
+
 .box6 {
+    transition-duration: 400ms;
     margin-top: -223px;
     margin-left: 1500px;
     width: 404px;
@@ -281,4 +314,9 @@ body {
     background-color: #032D5F;
     border: transparent;
     border-radius: 30px;
+}
+
+.box6:hover {
+    width: 500px;
+    height: 300px;
 }
