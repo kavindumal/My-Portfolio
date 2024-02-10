@@ -20,7 +20,7 @@ h1 {
     width: 100px;
     float: left;
     margin-top: 40px;
-    margin-left: 350px;
+    margin-left: 550px;
 }
 
 .FeaturesBtn {
@@ -187,11 +187,36 @@ body {
 
 .profilePic {
     margin-top: -400px;
-    margin-left: 510px;
+    margin-left: 700px;
     width: 781;
     height: 819;
 }
 
 .whatiDoTxt {
-    margin-top: -250px;
+    margin-left: 960px;
+    margin-top: -200px;
+}
+
+.titleULineOfWhatIDo {
+    margin-top: -10px;
+    margin-left: 952px;
+    width: 65px;
+    height: 2px;
+    background-color: #546587;
+}
+
+.titleULine2OfWhatIDo {
+    margin-top: -2px;
+    margin-left: 1021px;
+    width: 15px;
+    height: 2px;
+    background-color: #0EB4FF;
+}
+
+.titleULine3OfWhatIDo {
+    margin-top: -2px;
+    margin-left: 1042px;
+    width: 30px;
+    height: 2px;
+    background-color: #546587;
 }
